@@ -69,7 +69,7 @@ I observed that 72% of the students do not smoke , while 18% does and the remain
 This table shows the number of students who are diabetic and those who are not. 
 Diabetes is an illness and only 9% of the entire student population has it whilw 10% is unspecified, 81% do not have this illness.
 
-## VISUALIZARION
+## VISUALIZATION
 
 ![](Daaboard_MD.png)
 
