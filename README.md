@@ -71,7 +71,7 @@ Diabetes is an illness and only 9% of the entire student population has it whilw
 
 ## VISUALIZATION
 
-![](Daaboard_MD.png)
+![](c_d.png)
 
 The above tables was viasualized to further show the insights properly.
 
@@ -79,7 +79,7 @@ The above tables was viasualized to further show the insights properly.
 
 CONCLUSION :
 The overall health of the students is looking good. 😃💃
-The illness(diabetes) tho negligible(as its not contagious) would affect the students if not properly tale care of.
+The illness(diabetes) tho negligible(as its not contagious) would affect the students if not properly taken care of.
 
 # Recommendation
 
