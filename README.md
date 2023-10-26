@@ -37,43 +37,45 @@ in the initial preparation, i performed the following
 - Data cleaning and formatting
 - Pivot tables creation
 
-  ### Analysis
+  ## Analysis
 
-  Students History:  
+ ### Students History:  
   The school currently has a total of **200,000** students.
   With 55% of them being male while 45% are female.
   
- Students health Category:
+- Students health Category:
 
- ![](first_pivot.png)
+ ![](h_cc.png)
 
 The table above is showing the average Bmi, age, blood pressure , heartrate, cholesterol level and Temperature of both male and female students and i obervered that all the above are within the normal range health range.
 
-![](2nd_pivot.png)
+- **AVERAGE HEIGHT AND WEIGHT OF STUDENTS**
+
+![](we.png)
 
 This table is showing the average weight and height of both male and female students and its observed that both have healthy weights(their bmi is normal) and have no issues with their heights.
 
-![](3rd_pivot.png)
+- **BLOODTYPE**
+
+![](bld.png)
 
 This table is showing the bloodtype of the students.
 33% of the students here belong to the blood group **O**.
 while the remaining 67% fall under blood group A, AB & B.
 
-![](4th_pivot.png)
+- **SMOKING**
+
+![](smk.png)
 
 This table shows the count of students who are smokers and those who are not.
 I observed that 72% of the students do not smoke , while 18% does and the remaining 10% is unspecified.
 
-![](5th_pivot.png)
+- **DIABETES**
+
+![](dib.png)
 
 This table shows the number of students who are diabetic and those who are not. 
 Diabetes is an illness and only 9% of the entire student population has it whilw 10% is unspecified, 81% do not have this illness.
-
-## VISUALIZATION
-
-![](c_d.png)
-
-The above tables was viasualized to further show the insights properly.
 
 ## CONCLUSION / RECOMMADATIONS
 
