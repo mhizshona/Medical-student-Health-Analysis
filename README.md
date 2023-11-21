@@ -79,7 +79,7 @@ Diabetes is an illness and only 9% of the entire student population has it whilw
 
 ### DASHBOARD
 
-![](mdn.png)
+![](dash.png)
 
 ## CONCLUSION / RECOMMADATIONS
 
